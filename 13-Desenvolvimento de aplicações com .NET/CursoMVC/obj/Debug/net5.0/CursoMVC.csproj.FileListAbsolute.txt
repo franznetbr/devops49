@@ -1,0 +1,8 @@
+C:\Users\192149\Documents\Desafio-DIO\13-Desenvolvimento de aplicações com .NET\CursoMVC\obj\Debug\net5.0\CursoMVC.csprojAssemblyReference.cache
+C:\Users\192149\Documents\Desafio-DIO\13-Desenvolvimento de aplicações com .NET\CursoMVC\obj\Debug\net5.0\CursoMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\192149\Documents\Desafio-DIO\13-Desenvolvimento de aplicações com .NET\CursoMVC\obj\Debug\net5.0\CursoMVC.AssemblyInfoInputs.cache
+C:\Users\192149\Documents\Desafio-DIO\13-Desenvolvimento de aplicações com .NET\CursoMVC\obj\Debug\net5.0\CursoMVC.AssemblyInfo.cs
+C:\Users\192149\Documents\Desafio-DIO\13-Desenvolvimento de aplicações com .NET\CursoMVC\obj\Debug\net5.0\CursoMVC.csproj.CoreCompileInputs.cache
+C:\Users\192149\Documents\Desafio-DIO\13-Desenvolvimento de aplicações com .NET\CursoMVC\obj\Debug\net5.0\CursoMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\192149\Documents\Desafio-DIO\13-Desenvolvimento de aplicações com .NET\CursoMVC\obj\Debug\net5.0\CursoMVC.RazorAssemblyInfo.cache
+C:\Users\192149\Documents\Desafio-DIO\13-Desenvolvimento de aplicações com .NET\CursoMVC\obj\Debug\net5.0\CursoMVC.RazorAssemblyInfo.cs
